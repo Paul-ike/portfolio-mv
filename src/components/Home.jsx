@@ -20,7 +20,7 @@ const Home = () => {
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
-          <a href="https://drive.google.com/file/d/1K8E-thQ6dhwtT1wFS-3EN3PiqDhuxNlw/view?usp=share_link" download="PNResume.pdf">Download Resume</a>
+          <a href="https://drive.google.com/file/d/1BnufxI3KB7R-l683Sg1Eba5piQMJ9-Wr/view" download="PNResume.pdf">Download Resume</a>
             <span className='group-hover:rotate-90 duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
