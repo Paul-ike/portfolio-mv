@@ -2,6 +2,7 @@ import WorkIm from '../assets/projects/workImg.png'
 import RealEst from '../assets/projects/realestate.png'
 import sushi from '../assets/projects/sushi.png'
 import gym from '../assets/projects/gym.png'
+import car from '../assets/projects/car.png'
 
 export const data=[
     {
@@ -35,9 +36,9 @@ export const data=[
     {
         id:5,
         name:"PNCar",
-        image:gym,
+        image:car,
         github:"https://github.com/Paul-ike/car",
-        live:"/",
+        live:"https://pncar.vercel.app/",
     }
 
 
